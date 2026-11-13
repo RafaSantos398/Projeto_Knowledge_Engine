@@ -1,0 +1,255 @@
+{
+  "sha256": "1a7f6df7751eb39edb80b5c41afedbb27892762581c0755e52431a102386658b",
+  "linhas_na_fonte": 23921,
+  "campos_selecionados": [
+    "date",
+    "home_team",
+    "away_team",
+    "home_team_fifa_rank",
+    "away_team_fifa_rank",
+    "home_team_score",
+    "away_team_score",
+    "tournament",
+    "shoot_out",
+    "home_team_result"
+  ],
+  "total_partidas": 320,
+  "partidas_por_copa": {
+    "2002": 64,
+    "2006": 64,
+    "2010": 64,
+    "2014": 64,
+    "2018": 64
+  },
+  "selecoes_por_copa": {
+    "2002": 32,
+    "2006": 32,
+    "2010": 32,
+    "2014": 32,
+    "2018": 32
+  },
+  "total_referencias": 160,
+  "decisoes_por_penaltis": 16,
+  "duplicatas": 0,
+  "campos_selecionados_vazios": 0,
+  "politica_ranking": "primeiro_registro_csv_por_selecao_e_edicao_sem_correcao_externa",
+  "validacao_historica_completa": false,
+  "ocorrencias_com_ranking_diferente_da_estreia": [
+    {
+      "linha_csv": 20438,
+      "data": "2018-07-01",
+      "edicao": 2018,
+      "selecao": "croacia",
+      "ranking_no_jogo": 12,
+      "referencia_fixa": 20
+    },
+    {
+      "linha_csv": 20438,
+      "data": "2018-07-01",
+      "edicao": 2018,
+      "selecao": "dinamarca",
+      "ranking_no_jogo": 15,
+      "referencia_fixa": 12
+    },
+    {
+      "linha_csv": 20437,
+      "data": "2018-07-01",
+      "edicao": 2018,
+      "selecao": "russia",
+      "ranking_no_jogo": 49,
+      "referencia_fixa": 70
+    },
+    {
+      "linha_csv": 20437,
+      "data": "2018-07-01",
+      "edicao": 2018,
+      "selecao": "espanha",
+      "ranking_no_jogo": 6,
+      "referencia_fixa": 10
+    },
+    {
+      "linha_csv": 20440,
+      "data": "2018-07-02",
+      "edicao": 2018,
+      "selecao": "belgica",
+      "ranking_no_jogo": 5,
+      "referencia_fixa": 3
+    },
+    {
+      "linha_csv": 20440,
+      "data": "2018-07-02",
+      "edicao": 2018,
+      "selecao": "japao",
+      "ranking_no_jogo": 41,
+      "referencia_fixa": 61
+    },
+    {
+      "linha_csv": 20439,
+      "data": "2018-07-02",
+      "edicao": 2018,
+      "selecao": "brasil",
+      "ranking_no_jogo": 4,
+      "referencia_fixa": 2
+    },
+    {
+      "linha_csv": 20439,
+      "data": "2018-07-02",
+      "edicao": 2018,
+      "selecao": "mexico",
+      "ranking_no_jogo": 10,
+      "referencia_fixa": 15
+    },
+    {
+      "linha_csv": 20442,
+      "data": "2018-07-03",
+      "edicao": 2018,
+      "selecao": "colombia",
+      "ranking_no_jogo": 17,
+      "referencia_fixa": 16
+    },
+    {
+      "linha_csv": 20442,
+      "data": "2018-07-03",
+      "edicao": 2018,
+      "selecao": "inglaterra",
+      "ranking_no_jogo": 7,
+      "referencia_fixa": 12
+    },
+    {
+      "linha_csv": 20441,
+      "data": "2018-07-03",
+      "edicao": 2018,
+      "selecao": "suecia",
+      "ranking_no_jogo": 21,
+      "referencia_fixa": 24
+    },
+    {
+      "linha_csv": 20441,
+      "data": "2018-07-03",
+      "edicao": 2018,
+      "selecao": "suica",
+      "ranking_no_jogo": 8,
+      "referencia_fixa": 6
+    },
+    {
+      "linha_csv": 20445,
+      "data": "2018-07-06",
+      "edicao": 2018,
+      "selecao": "brasil",
+      "ranking_no_jogo": 4,
+      "referencia_fixa": 2
+    },
+    {
+      "linha_csv": 20445,
+      "data": "2018-07-06",
+      "edicao": 2018,
+      "selecao": "belgica",
+      "ranking_no_jogo": 5,
+      "referencia_fixa": 3
+    },
+    {
+      "linha_csv": 20444,
+      "data": "2018-07-06",
+      "edicao": 2018,
+      "selecao": "franca",
+      "ranking_no_jogo": 2,
+      "referencia_fixa": 7
+    },
+    {
+      "linha_csv": 20447,
+      "data": "2018-07-07",
+      "edicao": 2018,
+      "selecao": "russia",
+      "ranking_no_jogo": 49,
+      "referencia_fixa": 70
+    },
+    {
+      "linha_csv": 20447,
+      "data": "2018-07-07",
+      "edicao": 2018,
+      "selecao": "croacia",
+      "ranking_no_jogo": 12,
+      "referencia_fixa": 20
+    },
+    {
+      "linha_csv": 20446,
+      "data": "2018-07-07",
+      "edicao": 2018,
+      "selecao": "suecia",
+      "ranking_no_jogo": 21,
+      "referencia_fixa": 24
+    },
+    {
+      "linha_csv": 20446,
+      "data": "2018-07-07",
+      "edicao": 2018,
+      "selecao": "inglaterra",
+      "ranking_no_jogo": 7,
+      "referencia_fixa": 12
+    },
+    {
+      "linha_csv": 20448,
+      "data": "2018-07-10",
+      "edicao": 2018,
+      "selecao": "franca",
+      "ranking_no_jogo": 2,
+      "referencia_fixa": 7
+    },
+    {
+      "linha_csv": 20448,
+      "data": "2018-07-10",
+      "edicao": 2018,
+      "selecao": "belgica",
+      "ranking_no_jogo": 5,
+      "referencia_fixa": 3
+    },
+    {
+      "linha_csv": 20449,
+      "data": "2018-07-11",
+      "edicao": 2018,
+      "selecao": "croacia",
+      "ranking_no_jogo": 12,
+      "referencia_fixa": 20
+    },
+    {
+      "linha_csv": 20449,
+      "data": "2018-07-11",
+      "edicao": 2018,
+      "selecao": "inglaterra",
+      "ranking_no_jogo": 7,
+      "referencia_fixa": 12
+    },
+    {
+      "linha_csv": 20450,
+      "data": "2018-07-14",
+      "edicao": 2018,
+      "selecao": "belgica",
+      "ranking_no_jogo": 5,
+      "referencia_fixa": 3
+    },
+    {
+      "linha_csv": 20450,
+      "data": "2018-07-14",
+      "edicao": 2018,
+      "selecao": "inglaterra",
+      "ranking_no_jogo": 7,
+      "referencia_fixa": 12
+    },
+    {
+      "linha_csv": 20451,
+      "data": "2018-07-15",
+      "edicao": 2018,
+      "selecao": "franca",
+      "ranking_no_jogo": 2,
+      "referencia_fixa": 7
+    },
+    {
+      "linha_csv": 20451,
+      "data": "2018-07-15",
+      "edicao": 2018,
+      "selecao": "croacia",
+      "ranking_no_jogo": 12,
+      "referencia_fixa": 20
+    }
+  ]
+}

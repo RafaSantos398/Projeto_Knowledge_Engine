@@ -1,0 +1,2 @@
+# Python 3.10 ou superior. O ETL usa somente a biblioteca padrão.
+# O programa lógico requer SWI-Prolog ou o SWISH, instalado separadamente.

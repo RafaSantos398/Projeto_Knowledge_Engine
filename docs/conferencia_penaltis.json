@@ -1,0 +1,73 @@
+{
+  "data_conferencia": "2026-11-13",
+  "fonte_comparacao": "https://raw.githubusercontent.com/martj42/international_results/master/shootouts.csv",
+  "sha256_fonte_comparacao": "072b445adf5183fbe981087857e5b64c8f17abfdbf257b1822ceacb4a37919fa",
+  "uso": "Conferência apenas; não alimenta o ETL nem a base de conhecimento.",
+  "total_conferido": 16,
+  "vencedoras": [
+    {
+      "data": "2002-06-16",
+      "vencedora": "Spain"
+    },
+    {
+      "data": "2002-06-22",
+      "vencedora": "Korea Republic"
+    },
+    {
+      "data": "2006-06-26",
+      "vencedora": "Ukraine"
+    },
+    {
+      "data": "2006-06-30",
+      "vencedora": "Germany"
+    },
+    {
+      "data": "2006-07-01",
+      "vencedora": "Portugal"
+    },
+    {
+      "data": "2006-07-09",
+      "vencedora": "Italy"
+    },
+    {
+      "data": "2010-06-29",
+      "vencedora": "Paraguay"
+    },
+    {
+      "data": "2010-07-02",
+      "vencedora": "Uruguay"
+    },
+    {
+      "data": "2014-06-28",
+      "vencedora": "Brazil"
+    },
+    {
+      "data": "2014-06-29",
+      "vencedora": "Costa Rica"
+    },
+    {
+      "data": "2014-07-05",
+      "vencedora": "Netherlands"
+    },
+    {
+      "data": "2014-07-09",
+      "vencedora": "Argentina"
+    },
+    {
+      "data": "2018-07-01",
+      "vencedora": "Croatia"
+    },
+    {
+      "data": "2018-07-01",
+      "vencedora": "Russia"
+    },
+    {
+      "data": "2018-07-03",
+      "vencedora": "England"
+    },
+    {
+      "data": "2018-07-07",
+      "vencedora": "Croatia"
+    }
+  ]
+}

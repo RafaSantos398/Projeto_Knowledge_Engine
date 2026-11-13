@@ -1,0 +1,19 @@
+{
+  "dataset": "FIFA World Cup 2022",
+  "autoria": "Brenda89",
+  "pagina_original": "https://www.kaggle.com/datasets/brenda89/fifa-world-cup-2022",
+  "licenca_informada_pelo_kaggle": "CC0: Public Domain",
+  "endpoint_metadados": "https://www.kaggle.com/api/v1/datasets/view/brenda89/fifa-world-cup-2022",
+  "data_consulta_e_download": "2026-11-13",
+  "versao_kaggle_na_consulta": 12,
+  "ultima_atualizacao_kaggle_na_consulta": "2022-08-28T11:38:08.167Z",
+  "tabela_unica": "international_matches.csv",
+  "copia_utilizada": "https://github.com/andyweaves/worldcup22/blob/6e8780b23a6453a9a18c60304b681aeec5b48da0/resources/international_matches.csv",
+  "url_download": "https://raw.githubusercontent.com/andyweaves/worldcup22/6e8780b23a6453a9a18c60304b681aeec5b48da0/resources/international_matches.csv",
+  "commit_copia": "6e8780b23a6453a9a18c60304b681aeec5b48da0",
+  "sha256": "1a7f6df7751eb39edb80b5c41afedbb27892762581c0755e52431a102386658b",
+  "bytes": 3148074,
+  "linhas_sem_cabecalho": 23921,
+  "intervalo_copia": ["1993-08-08", "2022-06-14"],
+  "observacao_versao": "A cópia no GitHub é identificada pelo próprio commit e hash. Não foi estabelecida igualdade byte a byte com a versão 12 do Kaggle."
+}

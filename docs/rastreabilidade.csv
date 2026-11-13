@@ -1,0 +1,321 @@
+linha_csv,data,edicao,selecao_a,selecao_b,nome_original_a,nome_original_b
+6343,2002-05-31,2002,franca,senegal,France,Senegal
+6344,2002-06-01,2002,alemanha,arabia_saudita,Germany,Saudi Arabia
+6345,2002-06-01,2002,irlanda,camaroes,Republic of Ireland,Cameroon
+6346,2002-06-01,2002,uruguai,dinamarca,Uruguay,Denmark
+6347,2002-06-02,2002,argentina,nigeria,Argentina,Nigeria
+6350,2002-06-02,2002,espanha,eslovenia,Spain,Slovenia
+6348,2002-06-02,2002,inglaterra,suecia,England,Sweden
+6349,2002-06-02,2002,paraguai,africa_do_sul,Paraguay,South Africa
+6351,2002-06-03,2002,brasil,turquia,Brazil,Turkey
+6352,2002-06-03,2002,croacia,mexico,Croatia,Mexico
+6353,2002-06-03,2002,italia,equador,Italy,Ecuador
+6354,2002-06-04,2002,china,costa_rica,China PR,Costa Rica
+6356,2002-06-04,2002,coreia_do_sul,polonia,Korea Republic,Poland
+6355,2002-06-04,2002,japao,belgica,Japan,Belgium
+6357,2002-06-05,2002,alemanha,irlanda,Germany,Republic of Ireland
+6359,2002-06-05,2002,estados_unidos,portugal,USA,Portugal
+6358,2002-06-05,2002,russia,tunisia,Russia,Tunisia
+6360,2002-06-06,2002,camaroes,arabia_saudita,Cameroon,Saudi Arabia
+6361,2002-06-06,2002,dinamarca,senegal,Denmark,Senegal
+6362,2002-06-06,2002,franca,uruguai,France,Uruguay
+6364,2002-06-07,2002,argentina,inglaterra,Argentina,England
+6365,2002-06-07,2002,espanha,paraguai,Spain,Paraguay
+6366,2002-06-07,2002,suecia,nigeria,Sweden,Nigeria
+6370,2002-06-08,2002,africa_do_sul,eslovenia,South Africa,Slovenia
+6367,2002-06-08,2002,brasil,china,Brazil,China PR
+6368,2002-06-08,2002,italia,croacia,Italy,Croatia
+6371,2002-06-09,2002,costa_rica,turquia,Costa Rica,Turkey
+6372,2002-06-09,2002,japao,russia,Japan,Russia
+6374,2002-06-09,2002,mexico,equador,Mexico,Ecuador
+6375,2002-06-10,2002,coreia_do_sul,estados_unidos,Korea Republic,USA
+6376,2002-06-10,2002,portugal,polonia,Portugal,Poland
+6377,2002-06-10,2002,tunisia,belgica,Tunisia,Belgium
+6380,2002-06-11,2002,arabia_saudita,irlanda,Saudi Arabia,Republic of Ireland
+6378,2002-06-11,2002,camaroes,alemanha,Cameroon,Germany
+6379,2002-06-11,2002,dinamarca,franca,Denmark,France
+6381,2002-06-11,2002,senegal,uruguai,Senegal,Uruguay
+6384,2002-06-12,2002,africa_do_sul,espanha,South Africa,Spain
+6383,2002-06-12,2002,eslovenia,paraguai,Slovenia,Paraguay
+6382,2002-06-12,2002,nigeria,inglaterra,Nigeria,England
+6385,2002-06-12,2002,suecia,argentina,Sweden,Argentina
+6386,2002-06-13,2002,costa_rica,brasil,Costa Rica,Brazil
+6387,2002-06-13,2002,equador,croacia,Ecuador,Croatia
+6388,2002-06-13,2002,mexico,italia,Mexico,Italy
+6389,2002-06-13,2002,turquia,china,Turkey,China PR
+6390,2002-06-14,2002,belgica,russia,Belgium,Russia
+6392,2002-06-14,2002,coreia_do_sul,portugal,Korea Republic,Portugal
+6391,2002-06-14,2002,japao,tunisia,Japan,Tunisia
+6393,2002-06-14,2002,polonia,estados_unidos,Poland,USA
+6395,2002-06-15,2002,alemanha,paraguai,Germany,Paraguay
+6394,2002-06-15,2002,dinamarca,inglaterra,Denmark,England
+6396,2002-06-16,2002,espanha,irlanda,Spain,Republic of Ireland
+6397,2002-06-16,2002,suecia,senegal,Sweden,Senegal
+6398,2002-06-17,2002,brasil,belgica,Brazil,Belgium
+6399,2002-06-17,2002,mexico,estados_unidos,Mexico,USA
+6401,2002-06-18,2002,coreia_do_sul,italia,Korea Republic,Italy
+6400,2002-06-18,2002,japao,turquia,Japan,Turkey
+6403,2002-06-21,2002,alemanha,estados_unidos,Germany,USA
+6402,2002-06-21,2002,inglaterra,brasil,England,Brazil
+6405,2002-06-22,2002,coreia_do_sul,espanha,Korea Republic,Spain
+6406,2002-06-22,2002,senegal,turquia,Senegal,Turkey
+6407,2002-06-25,2002,coreia_do_sul,alemanha,Korea Republic,Germany
+6409,2002-06-26,2002,brasil,turquia,Brazil,Turkey
+6410,2002-06-29,2002,coreia_do_sul,turquia,Korea Republic,Turkey
+6412,2002-06-30,2002,alemanha,brasil,Germany,Brazil
+9655,2006-06-09,2006,alemanha,costa_rica,Germany,Costa Rica
+9656,2006-06-09,2006,polonia,equador,Poland,Ecuador
+9657,2006-06-10,2006,argentina,costa_do_marfim,Argentina,Côte d'Ivoire
+9658,2006-06-10,2006,inglaterra,paraguai,England,Paraguay
+9659,2006-06-10,2006,trinidad_e_tobago,suecia,Trinidad and Tobago,Sweden
+9660,2006-06-11,2006,angola,portugal,Angola,Portugal
+9661,2006-06-11,2006,mexico,ira,Mexico,IR Iran
+9662,2006-06-11,2006,servia_e_montenegro,holanda,Serbia,Netherlands
+9663,2006-06-12,2006,australia,japao,Australia,Japan
+9665,2006-06-12,2006,estados_unidos,republica_tcheca,USA,Czech Republic
+9664,2006-06-12,2006,italia,gana,Italy,Ghana
+9666,2006-06-13,2006,brasil,croacia,Brazil,Croatia
+9668,2006-06-13,2006,coreia_do_sul,togo,Korea Republic,Togo
+9667,2006-06-13,2006,franca,suica,France,Switzerland
+9669,2006-06-14,2006,alemanha,polonia,Germany,Poland
+9670,2006-06-14,2006,espanha,ucrania,Spain,Ukraine
+9671,2006-06-14,2006,tunisia,arabia_saudita,Tunisia,Saudi Arabia
+9672,2006-06-15,2006,equador,costa_rica,Ecuador,Costa Rica
+9673,2006-06-15,2006,inglaterra,trinidad_e_tobago,England,Trinidad and Tobago
+9674,2006-06-15,2006,suecia,paraguai,Sweden,Paraguay
+9675,2006-06-16,2006,argentina,servia_e_montenegro,Argentina,Serbia
+9677,2006-06-16,2006,holanda,costa_do_marfim,Netherlands,Côte d'Ivoire
+9676,2006-06-16,2006,mexico,angola,Mexico,Angola
+9679,2006-06-17,2006,italia,estados_unidos,Italy,USA
+9680,2006-06-17,2006,portugal,ira,Portugal,IR Iran
+9678,2006-06-17,2006,republica_tcheca,gana,Czech Republic,Ghana
+9681,2006-06-18,2006,brasil,australia,Brazil,Australia
+9682,2006-06-18,2006,franca,coreia_do_sul,France,Korea Republic
+9683,2006-06-18,2006,japao,croacia,Japan,Croatia
+9684,2006-06-19,2006,arabia_saudita,ucrania,Saudi Arabia,Ukraine
+9685,2006-06-19,2006,espanha,tunisia,Spain,Tunisia
+9686,2006-06-19,2006,togo,suica,Togo,Switzerland
+9688,2006-06-20,2006,alemanha,equador,Germany,Ecuador
+9687,2006-06-20,2006,costa_rica,polonia,Costa Rica,Poland
+9689,2006-06-20,2006,paraguai,trinidad_e_tobago,Paraguay,Trinidad and Tobago
+9690,2006-06-20,2006,suecia,inglaterra,Sweden,England
+9692,2006-06-21,2006,costa_do_marfim,servia_e_montenegro,Côte d'Ivoire,Serbia
+9693,2006-06-21,2006,holanda,argentina,Netherlands,Argentina
+9691,2006-06-21,2006,ira,angola,IR Iran,Angola
+9694,2006-06-21,2006,portugal,mexico,Portugal,Mexico
+9695,2006-06-22,2006,croacia,australia,Croatia,Australia
+9697,2006-06-22,2006,gana,estados_unidos,Ghana,USA
+9698,2006-06-22,2006,japao,brasil,Japan,Brazil
+9696,2006-06-22,2006,republica_tcheca,italia,Czech Republic,Italy
+9699,2006-06-23,2006,arabia_saudita,espanha,Saudi Arabia,Spain
+9700,2006-06-23,2006,suica,coreia_do_sul,Switzerland,Korea Republic
+9701,2006-06-23,2006,togo,franca,Togo,France
+9702,2006-06-23,2006,ucrania,tunisia,Ukraine,Tunisia
+9704,2006-06-24,2006,alemanha,suecia,Germany,Sweden
+9703,2006-06-24,2006,argentina,mexico,Argentina,Mexico
+9707,2006-06-25,2006,inglaterra,equador,England,Ecuador
+9709,2006-06-25,2006,portugal,holanda,Portugal,Netherlands
+9711,2006-06-26,2006,italia,australia,Italy,Australia
+9713,2006-06-26,2006,suica,ucrania,Switzerland,Ukraine
+9714,2006-06-27,2006,brasil,gana,Brazil,Ghana
+9715,2006-06-27,2006,espanha,franca,Spain,France
+9717,2006-06-30,2006,alemanha,argentina,Germany,Argentina
+9718,2006-06-30,2006,italia,ucrania,Italy,Ukraine
+9720,2006-07-01,2006,brasil,franca,Brazil,France
+9721,2006-07-01,2006,inglaterra,portugal,England,Portugal
+9723,2006-07-04,2006,alemanha,italia,Germany,Italy
+9725,2006-07-05,2006,portugal,franca,Portugal,France
+9727,2006-07-08,2006,alemanha,portugal,Germany,Portugal
+9729,2006-07-09,2006,italia,franca,Italy,France
+13167,2010-06-11,2010,africa_do_sul,mexico,South Africa,Mexico
+13168,2010-06-11,2010,uruguai,franca,Uruguay,France
+13169,2010-06-12,2010,argentina,nigeria,Argentina,Nigeria
+13171,2010-06-12,2010,coreia_do_sul,grecia,Korea Republic,Greece
+13170,2010-06-12,2010,inglaterra,estados_unidos,England,USA
+13173,2010-06-13,2010,alemanha,australia,Germany,Australia
+13172,2010-06-13,2010,argelia,eslovenia,Algeria,Slovenia
+13174,2010-06-13,2010,servia,gana,Serbia,Ghana
+13177,2010-06-14,2010,holanda,dinamarca,Netherlands,Denmark
+13175,2010-06-14,2010,italia,paraguai,Italy,Paraguay
+13176,2010-06-14,2010,japao,camaroes,Japan,Cameroon
+13178,2010-06-15,2010,brasil,coreia_do_norte,Brazil,Korea DPR
+13179,2010-06-15,2010,costa_do_marfim,portugal,Côte d'Ivoire,Portugal
+13180,2010-06-15,2010,nova_zelandia,eslovaquia,New Zealand,Slovakia
+13182,2010-06-16,2010,africa_do_sul,uruguai,South Africa,Uruguay
+13183,2010-06-16,2010,espanha,suica,Spain,Switzerland
+13181,2010-06-16,2010,honduras,chile,Honduras,Chile
+13184,2010-06-17,2010,argentina,coreia_do_sul,Argentina,Korea Republic
+13185,2010-06-17,2010,franca,mexico,France,Mexico
+13186,2010-06-17,2010,grecia,nigeria,Greece,Nigeria
+13188,2010-06-18,2010,alemanha,servia,Germany,Serbia
+13190,2010-06-18,2010,eslovenia,estados_unidos,Slovenia,USA
+13187,2010-06-18,2010,inglaterra,argelia,England,Algeria
+13191,2010-06-19,2010,camaroes,dinamarca,Cameroon,Denmark
+13193,2010-06-19,2010,gana,australia,Ghana,Australia
+13194,2010-06-19,2010,holanda,japao,Netherlands,Japan
+13196,2010-06-20,2010,brasil,costa_do_marfim,Brazil,Côte d'Ivoire
+13199,2010-06-20,2010,eslovaquia,paraguai,Slovakia,Paraguay
+13197,2010-06-20,2010,italia,nova_zelandia,Italy,New Zealand
+13201,2010-06-21,2010,chile,suica,Chile,Switzerland
+13203,2010-06-21,2010,espanha,honduras,Spain,Honduras
+13202,2010-06-21,2010,portugal,coreia_do_norte,Portugal,Korea DPR
+13207,2010-06-22,2010,africa_do_sul,franca,South Africa,France
+13204,2010-06-22,2010,grecia,argentina,Greece,Argentina
+13205,2010-06-22,2010,mexico,uruguai,Mexico,Uruguay
+13206,2010-06-22,2010,nigeria,coreia_do_sul,Nigeria,Korea Republic
+13208,2010-06-23,2010,australia,servia,Australia,Serbia
+13210,2010-06-23,2010,eslovenia,inglaterra,Slovenia,England
+13211,2010-06-23,2010,estados_unidos,argelia,USA,Algeria
+13209,2010-06-23,2010,gana,alemanha,Ghana,Germany
+13212,2010-06-24,2010,camaroes,holanda,Cameroon,Netherlands
+13213,2010-06-24,2010,dinamarca,japao,Denmark,Japan
+13215,2010-06-24,2010,eslovaquia,italia,Slovakia,Italy
+13214,2010-06-24,2010,paraguai,nova_zelandia,Paraguay,New Zealand
+13216,2010-06-25,2010,chile,espanha,Chile,Spain
+13217,2010-06-25,2010,coreia_do_norte,costa_do_marfim,Korea DPR,Côte d'Ivoire
+13218,2010-06-25,2010,portugal,brasil,Portugal,Brazil
+13219,2010-06-25,2010,suica,honduras,Switzerland,Honduras
+13222,2010-06-26,2010,estados_unidos,gana,USA,Ghana
+13221,2010-06-26,2010,uruguai,coreia_do_sul,Uruguay,Korea Republic
+13224,2010-06-27,2010,alemanha,inglaterra,Germany,England
+13223,2010-06-27,2010,argentina,mexico,Argentina,Mexico
+13225,2010-06-28,2010,brasil,chile,Brazil,Chile
+13226,2010-06-28,2010,holanda,eslovaquia,Netherlands,Slovakia
+13228,2010-06-29,2010,espanha,portugal,Spain,Portugal
+13227,2010-06-29,2010,paraguai,japao,Paraguay,Japan
+13231,2010-07-02,2010,holanda,brasil,Netherlands,Brazil
+13232,2010-07-02,2010,uruguai,gana,Uruguay,Ghana
+13233,2010-07-03,2010,argentina,alemanha,Argentina,Germany
+13234,2010-07-03,2010,paraguai,espanha,Paraguay,Spain
+13235,2010-07-06,2010,uruguai,holanda,Uruguay,Netherlands
+13236,2010-07-07,2010,alemanha,espanha,Germany,Spain
+13239,2010-07-10,2010,uruguai,alemanha,Uruguay,Germany
+13240,2010-07-11,2010,holanda,espanha,Netherlands,Spain
+16866,2014-06-12,2014,brasil,croacia,Brazil,Croatia
+16867,2014-06-13,2014,chile,australia,Chile,Australia
+16869,2014-06-13,2014,espanha,holanda,Spain,Netherlands
+16868,2014-06-13,2014,mexico,camaroes,Mexico,Cameroon
+16870,2014-06-14,2014,colombia,grecia,Colombia,Greece
+16872,2014-06-14,2014,costa_do_marfim,japao,Côte d'Ivoire,Japan
+16871,2014-06-14,2014,inglaterra,italia,England,Italy
+16873,2014-06-14,2014,uruguai,costa_rica,Uruguay,Costa Rica
+16874,2014-06-15,2014,argentina,bosnia_e_herzegovina,Argentina,Bosnia and Herzegovina
+16875,2014-06-15,2014,franca,honduras,France,Honduras
+16876,2014-06-15,2014,suica,equador,Switzerland,Ecuador
+16877,2014-06-16,2014,alemanha,portugal,Germany,Portugal
+16878,2014-06-16,2014,gana,estados_unidos,Ghana,USA
+16879,2014-06-16,2014,ira,nigeria,IR Iran,Nigeria
+16880,2014-06-17,2014,belgica,argelia,Belgium,Algeria
+16881,2014-06-17,2014,brasil,mexico,Brazil,Mexico
+16882,2014-06-17,2014,russia,coreia_do_sul,Russia,Korea Republic
+16883,2014-06-18,2014,australia,holanda,Australia,Netherlands
+16884,2014-06-18,2014,camaroes,croacia,Cameroon,Croatia
+16886,2014-06-18,2014,espanha,chile,Spain,Chile
+16887,2014-06-19,2014,colombia,costa_do_marfim,Colombia,Côte d'Ivoire
+16888,2014-06-19,2014,japao,grecia,Japan,Greece
+16889,2014-06-19,2014,uruguai,inglaterra,Uruguay,England
+16890,2014-06-20,2014,honduras,equador,Honduras,Ecuador
+16891,2014-06-20,2014,italia,costa_rica,Italy,Costa Rica
+16892,2014-06-20,2014,suica,franca,Switzerland,France
+16894,2014-06-21,2014,alemanha,gana,Germany,Ghana
+16893,2014-06-21,2014,argentina,ira,Argentina,IR Iran
+16896,2014-06-21,2014,nigeria,bosnia_e_herzegovina,Nigeria,Bosnia and Herzegovina
+16897,2014-06-22,2014,belgica,russia,Belgium,Russia
+16899,2014-06-22,2014,coreia_do_sul,argelia,Korea Republic,Algeria
+16900,2014-06-22,2014,estados_unidos,portugal,USA,Portugal
+16901,2014-06-23,2014,australia,espanha,Australia,Spain
+16902,2014-06-23,2014,brasil,camaroes,Brazil,Cameroon
+16903,2014-06-23,2014,croacia,mexico,Croatia,Mexico
+16904,2014-06-23,2014,holanda,chile,Netherlands,Chile
+16905,2014-06-24,2014,costa_rica,inglaterra,Costa Rica,England
+16906,2014-06-24,2014,grecia,costa_do_marfim,Greece,Côte d'Ivoire
+16907,2014-06-24,2014,italia,uruguai,Italy,Uruguay
+16908,2014-06-24,2014,japao,colombia,Japan,Colombia
+16909,2014-06-25,2014,bosnia_e_herzegovina,ira,Bosnia and Herzegovina,IR Iran
+16910,2014-06-25,2014,equador,franca,Ecuador,France
+16911,2014-06-25,2014,honduras,suica,Honduras,Switzerland
+16913,2014-06-25,2014,nigeria,argentina,Nigeria,Argentina
+16914,2014-06-26,2014,argelia,russia,Algeria,Russia
+16915,2014-06-26,2014,coreia_do_sul,belgica,Korea Republic,Belgium
+16917,2014-06-26,2014,estados_unidos,alemanha,USA,Germany
+16916,2014-06-26,2014,portugal,gana,Portugal,Ghana
+16918,2014-06-28,2014,brasil,chile,Brazil,Chile
+16919,2014-06-28,2014,colombia,uruguai,Colombia,Uruguay
+16921,2014-06-29,2014,costa_rica,grecia,Costa Rica,Greece
+16922,2014-06-29,2014,holanda,mexico,Netherlands,Mexico
+16924,2014-06-30,2014,alemanha,argelia,Germany,Algeria
+16923,2014-06-30,2014,franca,nigeria,France,Nigeria
+16925,2014-07-01,2014,argentina,suica,Argentina,Switzerland
+16926,2014-07-01,2014,belgica,estados_unidos,Belgium,USA
+16928,2014-07-04,2014,brasil,colombia,Brazil,Colombia
+16929,2014-07-04,2014,franca,alemanha,France,Germany
+16930,2014-07-05,2014,argentina,belgica,Argentina,Belgium
+16931,2014-07-05,2014,holanda,costa_rica,Netherlands,Costa Rica
+16933,2014-07-08,2014,brasil,alemanha,Brazil,Germany
+16934,2014-07-09,2014,holanda,argentina,Netherlands,Argentina
+16936,2014-07-12,2014,brasil,holanda,Brazil,Netherlands
+16938,2014-07-13,2014,alemanha,argentina,Germany,Argentina
+20387,2018-06-14,2018,russia,arabia_saudita,Russia,Saudi Arabia
+20388,2018-06-15,2018,egito,uruguai,Egypt,Uruguay
+20389,2018-06-15,2018,marrocos,ira,Morocco,IR Iran
+20390,2018-06-15,2018,portugal,espanha,Portugal,Spain
+20392,2018-06-16,2018,argentina,islandia,Argentina,Iceland
+20394,2018-06-16,2018,croacia,nigeria,Croatia,Nigeria
+20391,2018-06-16,2018,franca,australia,France,Australia
+20393,2018-06-16,2018,peru,dinamarca,Peru,Denmark
+20396,2018-06-17,2018,alemanha,mexico,Germany,Mexico
+20397,2018-06-17,2018,brasil,suica,Brazil,Switzerland
+20395,2018-06-17,2018,costa_rica,servia,Costa Rica,Serbia
+20399,2018-06-18,2018,belgica,panama,Belgium,Panama
+20398,2018-06-18,2018,suecia,coreia_do_sul,Sweden,Korea Republic
+20400,2018-06-18,2018,tunisia,inglaterra,Tunisia,England
+20401,2018-06-19,2018,colombia,japao,Colombia,Japan
+20402,2018-06-19,2018,polonia,senegal,Poland,Senegal
+20403,2018-06-19,2018,russia,egito,Russia,Egypt
+20406,2018-06-20,2018,ira,espanha,IR Iran,Spain
+20404,2018-06-20,2018,portugal,marrocos,Portugal,Morocco
+20405,2018-06-20,2018,uruguai,arabia_saudita,Uruguay,Saudi Arabia
+20409,2018-06-21,2018,argentina,croacia,Argentina,Croatia
+20407,2018-06-21,2018,dinamarca,australia,Denmark,Australia
+20408,2018-06-21,2018,franca,peru,France,Peru
+20410,2018-06-22,2018,brasil,costa_rica,Brazil,Costa Rica
+20411,2018-06-22,2018,nigeria,islandia,Nigeria,Iceland
+20412,2018-06-22,2018,servia,suica,Serbia,Switzerland
+20415,2018-06-23,2018,alemanha,suecia,Germany,Sweden
+20413,2018-06-23,2018,belgica,tunisia,Belgium,Tunisia
+20414,2018-06-23,2018,coreia_do_sul,mexico,Korea Republic,Mexico
+20416,2018-06-24,2018,inglaterra,panama,England,Panama
+20417,2018-06-24,2018,japao,senegal,Japan,Senegal
+20418,2018-06-24,2018,polonia,colombia,Poland,Colombia
+20420,2018-06-25,2018,arabia_saudita,egito,Saudi Arabia,Egypt
+20421,2018-06-25,2018,espanha,marrocos,Spain,Morocco
+20422,2018-06-25,2018,ira,portugal,IR Iran,Portugal
+20419,2018-06-25,2018,russia,uruguai,Russia,Uruguay
+20423,2018-06-26,2018,australia,peru,Australia,Peru
+20424,2018-06-26,2018,dinamarca,franca,Denmark,France
+20426,2018-06-26,2018,islandia,croacia,Iceland,Croatia
+20425,2018-06-26,2018,nigeria,argentina,Nigeria,Argentina
+20427,2018-06-27,2018,coreia_do_sul,alemanha,Korea Republic,Germany
+20428,2018-06-27,2018,mexico,suecia,Mexico,Sweden
+20429,2018-06-27,2018,servia,brasil,Serbia,Brazil
+20430,2018-06-27,2018,suica,costa_rica,Switzerland,Costa Rica
+20434,2018-06-28,2018,inglaterra,belgica,England,Belgium
+20431,2018-06-28,2018,japao,polonia,Japan,Poland
+20433,2018-06-28,2018,panama,tunisia,Panama,Tunisia
+20432,2018-06-28,2018,senegal,colombia,Senegal,Colombia
+20435,2018-06-30,2018,franca,argentina,France,Argentina
+20436,2018-06-30,2018,uruguai,portugal,Uruguay,Portugal
+20438,2018-07-01,2018,croacia,dinamarca,Croatia,Denmark
+20437,2018-07-01,2018,russia,espanha,Russia,Spain
+20440,2018-07-02,2018,belgica,japao,Belgium,Japan
+20439,2018-07-02,2018,brasil,mexico,Brazil,Mexico
+20442,2018-07-03,2018,colombia,inglaterra,Colombia,England
+20441,2018-07-03,2018,suecia,suica,Sweden,Switzerland
+20445,2018-07-06,2018,brasil,belgica,Brazil,Belgium
+20444,2018-07-06,2018,uruguai,franca,Uruguay,France
+20447,2018-07-07,2018,russia,croacia,Russia,Croatia
+20446,2018-07-07,2018,suecia,inglaterra,Sweden,England
+20448,2018-07-10,2018,franca,belgica,France,Belgium
+20449,2018-07-11,2018,croacia,inglaterra,Croatia,England
+20450,2018-07-14,2018,belgica,inglaterra,Belgium,England
+20451,2018-07-15,2018,franca,croacia,France,Croatia
