@@ -55,21 +55,45 @@ python etl.py
 swipl -q -s consultas.pl
 ```
 
-O CSV original já está incluído. O primeiro comando verifica seu hash e só faz o download quando ele está ausente. Um arquivo existente com conteúdo diferente não é substituído. O ETL também rejeita versões com hash diferente, para garantir a reprodução do recorte estudado.
+Se `swipl` não for reconhecido pelo PowerShell, use o caminho da instalação:
 
-No terminal interativo do Prolog, execute uma consulta por vez:
-
-```prolog
-?- pergunta_1(Lista).
-?- pergunta_2(Tabela, Lideres).
-?- pergunta_3(Lista).
-?- mostrar_resultados.
-?- halt.
+```powershell
+& "C:\Program Files\swipl\bin\swipl.exe" -q -s consultas.pl
 ```
 
-O texto `?-` representa o prompt do Prolog; digite somente o que vem depois dele. Todas as consultas terminam com ponto.
+O CSV original já está incluído. O primeiro comando verifica seu hash e só faz o download quando ele está ausente. Um arquivo existente com conteúdo diferente não é substituído. O ETL também rejeita versões com hash diferente, para garantir a reprodução do recorte estudado.
 
-Para imprimir todas as respostas ou salvar o relatório sem abrir o modo interativo:
+No terminal interativo do Prolog, execute uma consulta por vez. Digite somente o comando, sem o prefixo `?-`, e finalize com ponto:
+
+```prolog
+pergunta_1(Lista).
+pergunta_2(Tabela, Lideres).
+pergunta_3(Lista).
+mostrar_resultados.
+halt.
+```
+
+As consultas correspondem às três perguntas do projeto:
+
+* `pergunta_1(Lista)` retorna as dez maiores zebras;
+* `pergunta_2(Tabela, Lideres)` retorna o resumo de cada Copa e as Copas líderes;
+* `pergunta_3(Lista)` retorna as seleções com maior taxa de vitória como azarãs.
+
+Você pode executar cada pergunta separadamente: basta digitar uma consulta,
+pressionar Enter, analisar o resultado e só então digitar a próxima. Não é
+necessário executar as três na mesma sessão.
+
+Para executar uma pergunta diretamente, sem abrir o modo interativo:
+
+```powershell
+swipl -q -s consultas.pl -g "pergunta_1(Lista), writeln(Lista)" -t halt
+swipl -q -s consultas.pl -g "pergunta_2(Tabela,Lideres), writeln(Tabela), writeln(Lideres)" -t halt
+swipl -q -s consultas.pl -g "pergunta_3(Lista), writeln(Lista)" -t halt
+```
+
+Caso `swipl` não esteja no `PATH`, substitua `swipl` pelo caminho completo
+`& "C:\Program Files\swipl\bin\swipl.exe"` nesses comandos. Para imprimir
+as três respostas formatadas ou salvar o relatório:
 
 ```powershell
 swipl -q -s consultas.pl -g mostrar_resultados -t halt
